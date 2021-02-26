@@ -1,0 +1,21 @@
+ header{
+      background-color: brown;
+  }
+  footer{
+      background-color: cornflowerblue;
+  }
+  nav{
+      background-color: darkcyan;
+  }
+  aside {
+      background-color: darkslategray;
+  }
+* { 
+    font: status-bar; font-size: 14px;
+}
+* header {
+    text-align: center;
+} 
+* footer {
+    text-align: center;
+}
